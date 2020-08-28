@@ -1,0 +1,12 @@
+/Users/nhannguyen/Desktop/collectionsPractice/bin/Debug/netcoreapp3.1/collectionsPractice.deps.json
+/Users/nhannguyen/Desktop/collectionsPractice/bin/Debug/netcoreapp3.1/collectionsPractice.runtimeconfig.json
+/Users/nhannguyen/Desktop/collectionsPractice/bin/Debug/netcoreapp3.1/collectionsPractice.runtimeconfig.dev.json
+/Users/nhannguyen/Desktop/collectionsPractice/bin/Debug/netcoreapp3.1/collectionsPractice.dll
+/Users/nhannguyen/Desktop/collectionsPractice/bin/Debug/netcoreapp3.1/collectionsPractice.pdb
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.csprojAssemblyReference.cache
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.AssemblyInfoInputs.cache
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.AssemblyInfo.cs
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.csproj.CoreCompileInputs.cache
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.dll
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.pdb
+/Users/nhannguyen/Desktop/collectionsPractice/obj/Debug/netcoreapp3.1/collectionsPractice.genruntimeconfig.cache
